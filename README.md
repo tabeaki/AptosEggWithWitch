@@ -8,7 +8,7 @@ To be the first to implement NFT in Layer1 and Layer2, which will be launched in
 
 ## Aptos Egg With Witch Mission:
 
-Aptos egg with Witch (Price: T.B.D)1<br/>
+Aptos egg with Witch (Price: T.B.D)<br/>
 -NFT, the beginning of the Withverse Project.<br/>
 -The mysterious encounter between a witch and an egg.<br/>
 -5,555 collections to be released.<br/>
