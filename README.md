@@ -1,6 +1,6 @@
 # AptosEggWithWitch
 
-![1000x1000](https://github.com/tabeaki/AptosCrownMasks/blob/main/public/AptosCrownMAask_logo.png)
+![1000x1000](https://github.com/tabeaki/AptosEggWithWitch/blob/main/Capricornus_egg_1sign.png)
 
 # Witch Verse Labs NFT collection AptosEggWithWitch
 ## Vision
